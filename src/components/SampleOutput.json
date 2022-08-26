@@ -1,0 +1,59 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Mariella Moon",
+            "title": "Apple releases patches for major iOS and macOS security vulnerabilities",
+            "description": "Apple has released a fix for a zero-day vulnerability that bad actors could exploit to take full control of an iPhone, an iPad or a computer running macOS Monterey. The tech giant's security advisory is pretty light on details, but it has identified CVE-2022-…",
+            "url": "https://www.engadget.com/apple-patch-ios-macos-security-vulnerabilities-043643469.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2020-10/5a7fd890-0c5a-11eb-9d7f-756ab71193e5",
+            "publishedAt": "2022-08-19T04:36:43Z",
+            "content": "Apple has released a fix for a zero-day vulnerability that bad actors could exploit to take full control of an iPhone, an iPad or a computer running macOS Monterey. The tech giant's security advisory… [+1406 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Cherlynn Low",
+            "title": "Engadget Podcast: Our reviews of the Samsung Galaxy Z Fold 4, Z Flip 4, Watch 5 and Watch 5 Pro",
+            "description": "This week, Cherlynn and guest co-host Sam Rutherford are joined by the Washington Post’s Chris Velazco to discuss their thoughts on Samsung’s latest foldables and wearables after having spent close to a week with them. Are the Z Flip 4 and Z Fold 4 ready for …",
+            "url": "https://www.engadget.com/engadget-podcast-samsung-galaxy-z-fold-4-z-flip-4-watch-5-pro-review-chris-velazco-123010401.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2020-11/c8e851c0-2b3d-11eb-baea-6c6fe29971fb",
+            "publishedAt": "2022-08-19T12:30:10Z",
+            "content": "This week, Cherlynn and guest co-host Sam Rutherford are joined by the Washington Posts Chris Velazco to discuss their thoughts on Samsungs latest foldables and wearables after having spent close to … [+1326 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Adam Speight",
+            "title": "Sony’s Xperia 1 IV Is a Nice Android Phone With an Absurd Price",
+            "description": "It’s still one of the few flagships with a headphone jack and microSD card slot.",
+            "url": "https://www.wired.com/review/sony-xperia-1-iv/",
+            "urlToImage": "https://media.wired.com/photos/62fea64e35e945940dec1c0b/191:100/w_1280,c_limit/Sony-Xperia-1-IV-Top-Gear.jpg",
+            "publishedAt": "2022-08-19T12:00:00Z",
+            "content": "Sonys Xperia phones arent like any other, which is a good thing. It has a tall 21:9 aspect ratio with a 4K screen, and Sony also has different priorities with its camera systemit offers up more manua… [+4197 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Andrew Liszewski",
+            "title": "The Panasonic Arc6 Electric Razor Is Like Driving a Rolls Royce Across Your Face",
+            "description": "Once a war only waged amongst disposable razors, the engineering challenge of cramming as many blades as possible onto a razor has taken over electric shavers too. Panasonic’s Arc6 manages to squeeze in six cutting implements to hack and slash away all your s…",
+            "url": "https://gizmodo.com/panasonic-arc6-electric-razor-review-six-blades-best-1849415330",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b5b876dd8a4d7ff56b27ab0896c8ac73.jpg",
+            "publishedAt": "2022-08-19T12:00:00Z",
+            "content": "Once a war only waged amongst disposable razors, the engineering challenge of cramming as many blades as possible onto a razor has taken over electric shavers too. Panasonics Arc6 manages to squeeze … [+9280 chars]"
+        }
+        
+    ]
+}
