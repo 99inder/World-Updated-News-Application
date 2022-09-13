@@ -7,7 +7,7 @@ import LoadingBar from 'react-top-loading-bar'
 
 const App = () => {
 
-  const title = "News App"
+  const title = "World Updated"
   const pageSize = 9;
   const apiKey = "27e4cb4ae315449a83a1a52a49dc9283";
 

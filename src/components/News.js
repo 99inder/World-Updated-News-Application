@@ -34,7 +34,7 @@ const News = (props) => {
         props.setProgress(100);
     }
 
-    const updateTitle = () => { document.title = `${capitalizeFirstWord(props.category)}- ${props.title}` }
+    const updateTitle = () => { document.title = `${props.title}- ${capitalizeFirstWord(props.category)}` }
 
     useEffect(() => {
 
